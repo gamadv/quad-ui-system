@@ -1,0 +1,3 @@
+{
+  "extends": "@quad-ui/eslint-config"
+}

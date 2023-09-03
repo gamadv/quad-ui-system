@@ -1,0 +1,4 @@
+{
+  "extends": "@quad-ui/ts-config/react.json",
+  "include": ["src"]
+}
