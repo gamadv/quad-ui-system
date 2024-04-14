@@ -21,3 +21,7 @@
 * [ ] Checkbox
 * [ ] Avatar
 * [ ] MultiStep
+
+
+## Tech Points
+* Doc changes about SB version: https://efficient-sloth-d85.notion.site/Atualiza-o-Storybook-v6-v7-42c254c66e584df3b9633334a563a51b
