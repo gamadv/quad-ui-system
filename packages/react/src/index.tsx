@@ -1,11 +1,7 @@
 import { styled } from './styles'
 
-const Button = styled('button', {
+export const Button = styled('button', {
   fontFamily: '$default',
   backgroundColor: '$ignite500',
-  height: '',
+  height: '$12',
 })
-
-export function index() {
-  return <Button>Test my button</Button>
-}
