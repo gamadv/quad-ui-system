@@ -1,18 +1,18 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button } from '@quad-ui/react'
+import { Button, ButtonProps } from '@quad-ui/react'
 
 export default {
   title: 'Button',
   component: Button,
-} as Meta
-
-export const Primary: StoryObj = {
   args: {
-    children: 'Primary',
+    children: 'Default',
   },
-}
-export const Secondary: StoryObj = {
+} as Meta<ButtonProps>
+
+export const Primary: StoryObj<ButtonProps> = {}
+export const Big: StoryObj<ButtonProps> = {
   args: {
-    children: 'Secondary',
+    children: 'Big Button',
+    size: 'big',
   },
 }
