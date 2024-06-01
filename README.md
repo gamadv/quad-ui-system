@@ -11,19 +11,20 @@
 * NPM as package
 * Storybook as UI documentation
 
-
 ## Components
 
-* [ ] Text
-* [ ] Heading
-* [ ] Box
-* [ ] Button
-* [ ] TextInput
-* [ ] TextArea
-* [ ] Checkbox
-* [ ] Avatar
-* [ ] MultiStep
+* [x] Text
+* [x] Heading
+* [x] Box
+* [x] Button
+* [x] TextInput
+* [x] TextArea
+* [x] Checkbox
+* [x] Avatar
+* [x] MultiStep
 
 
-## Tech Points
-* Doc changes about SB version: https://efficient-sloth-d85.notion.site/Atualiza-o-Storybook-v6-v7-42c254c66e584df3b9633334a563a51b
+
+
+## Future features
+* i18n
