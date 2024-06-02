@@ -1,5 +1,9 @@
 # About
 
+Design System created to use in my future project.
+
+## Tech Structure
+
 * Divided in packages
 * Project is a Monorepo
 * Using TSUP to generate build, must performer than NPX
@@ -23,8 +27,7 @@
 * [x] Avatar
 * [x] MultiStep
 
-
-
-
 ## Future features
+
 * i18n
+* Change Stitches to other style lib
