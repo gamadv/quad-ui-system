@@ -31,3 +31,4 @@ Design System created to use in my future project.
 
 * i18n
 * Change Stitches to other style lib
+* (NPMJS) Packages > Readme
