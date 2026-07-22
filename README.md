@@ -2,6 +2,7 @@
 
 Design System created to use in my future project.
 Target to React projects
+NPM: https://www.npmjs.com/package/@quad-ui/react
 
 ## 🔰 Tech Structure
 
