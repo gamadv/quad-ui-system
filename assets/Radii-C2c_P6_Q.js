@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as n}from"./index-COxJNofV.js";import{M as e}from"./index-BPHrfK0U.js";import{r as m}from"./index-DoTxmEHL.js";import{T as s}from"./TokensGrid-CCveWEw7.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-Du8L7CqA.js";import"../sb-preview/runtime.js";import"./index-UQvu9RDE.js";import"./index-D9uilScg.js";import"./index-oJaljHnC.js";import"./index-B_J8iUie.js";import"./index-8sIbGq5v.js";import"./index-DrFu-skq.js";function r(i){const o={h1:"h1",p:"p",...n(),...i.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{title:"🔷Tokens/Radii"}),`
+`,t.jsx(o.h1,{id:"radii",children:"Radii"}),`
+`,t.jsx(o.p,{children:"The Radii values used in this DS"}),`
+`,t.jsx(s,{tokens:m})]})}function C(i={}){const{wrapper:o}={...n(),...i.components};return o?t.jsx(o,{...i,children:t.jsx(r,{...i})}):r(i)}export{C as default};
